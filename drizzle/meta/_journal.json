@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710092930679,
+      "tag": "0000_amusing_the_santerians",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710110320529,
+      "tag": "0001_whole_zarda",
+      "breakpoints": true
+    }
+  ]
+}
