@@ -15,6 +15,27 @@
       "when": 1710110320529,
       "tag": "0001_whole_zarda",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710196038807,
+      "tag": "0002_shallow_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710236438628,
+      "tag": "0003_silly_skrulls",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1710236740674,
+      "tag": "0004_calm_energizer",
+      "breakpoints": true
     }
   ]
 }

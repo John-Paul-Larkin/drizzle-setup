@@ -1,7 +1,7 @@
-import { Get } from "./api/user/route";
+import { GET } from "./api/user/route";
 
 export default async function Home() {
-  const returnValue = await Get();
+  const returnValue = await GET();
   const data = await returnValue.json();
   console.log("data", data);
 
